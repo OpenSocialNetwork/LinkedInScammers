@@ -7,15 +7,15 @@ This list is maintained by the Open Social Network Initative.
 
 {% for public_enemy in site.data.public_enemies %}
   
-  #### {{public_enemy.name}}
+#### {{public_enemy.name}}
 
-  {% if public_enemy.email %}
-    E-Mail: <{{public_enemy.email}}>
-  {% endif %}
+{% if public_enemy.email %}
+E-Mail: <{{public_enemy.email}}>
+{% endif %}
 
-  {% if public_enemy.website %}
-    Website: [{{public_enemy.website}}]({{public_enemy.website}})
-  {% endif %}
+{% if public_enemy.website %}
+Website: [{{public_enemy.website}}]({{public_enemy.website}})
+{% endif %}
 
 {% endfor %}
 
