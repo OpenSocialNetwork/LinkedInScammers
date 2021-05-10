@@ -2,7 +2,7 @@
 (Source code of a [GitHub Page](https://opensocialnetwork.github.io/opensocialnetwork/) providing the following
 
 - Publicly available list of fraudulent entities on [LinkedIn](https://linkedin.com/).
-- Publicly available lsit of public enemies.
+- Publicly available list of public enemies.
 
 This list is maintained by the Open Social Network Initative.
 
