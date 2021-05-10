@@ -3,7 +3,7 @@ The Open Social Network strives to reconnect society by removal of entities cons
 
 ## LinkedIn Scammers
 
-[Publicly available lsit of LinkedIn scammers]({{site.baseurl}}/linkedin-scammers).
+[Publicly available list of LinkedIn scammers]({{site.baseurl}}/linkedin-scammers).
 
 ## Public Enemies
 
