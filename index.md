@@ -1,18 +1,13 @@
-# LinkedIn Scammers by Open Social Network
-Publicly available list of fraudulent entities on [LinkedIn](https://linkedin.com/).
+# Open Social Network
+The Open Social Network strives to reconnect society by removal of entities considered as harmful to social cohesion and progress of society.
 
-This list is maintained by the Open Social Network Initative.
+## LinkedIn Scammers
 
-## Scammers
+[Publicly available lsit of LinkedIn scammers]({{site.url}}/linkedin-scammers).
 
-{% for scammer in site.data.scammers %}
-#### {{scammer.name}}
+## Public Enemies
 
-E-Mail: <{{scammer.email}}>
-
-Website: [{{scammer.website}}]({{scammer.website}})
-
-{% endfor %}
+[Publicly available list of public enemies]({{site.url}}/public-enemies).
 
 ## Support or Contact
 
